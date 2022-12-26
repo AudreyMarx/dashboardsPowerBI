@@ -1,1 +1,2 @@
 # dashboardsPowerBI
+link dashboard3 interativo: https://app.powerbi.com/view?r=eyJrIjoiMGY3YzIwYTgtYWU1Yy00MGViLTliZDItOWM1NWY0NTc5MjU0IiwidCI6ImRjYjdlNjg0LTkyNTYtNDFmMC1iNzZjLTViYTM3ZTVmMmM0ZSJ9
