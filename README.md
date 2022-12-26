@@ -1,2 +1,6 @@
 # dashboardsPowerBI
-link dashboard3 interativo: https://app.powerbi.com/view?r=eyJrIjoiMGY3YzIwYTgtYWU1Yy00MGViLTliZDItOWM1NWY0NTc5MjU0IiwidCI6ImRjYjdlNjg0LTkyNTYtNDFmMC1iNzZjLTViYTM3ZTVmMmM0ZSJ9
+
+
+Link dashboard1 interativo: https://app.powerbi.com/view?r=eyJrIjoiMjA5Nzc4ZGUtYTAwNS00NmNlLThhOWYtZDUyYmNkNThmODkxIiwidCI6ImRjYjdlNjg0LTkyNTYtNDFmMC1iNzZjLTViYTM3ZTVmMmM0ZSJ9
+Link dashboard2 interativo: https://app.powerbi.com/view?r=eyJrIjoiMThjNWZhNWEtNWI3NS00MWJmLTkyNWEtNTJmMzRjNTliZjg3IiwidCI6ImRjYjdlNjg0LTkyNTYtNDFmMC1iNzZjLTViYTM3ZTVmMmM0ZSJ9
+Link dashboard3 interativo: https://app.powerbi.com/view?r=eyJrIjoiMGY3YzIwYTgtYWU1Yy00MGViLTliZDItOWM1NWY0NTc5MjU0IiwidCI6ImRjYjdlNjg0LTkyNTYtNDFmMC1iNzZjLTViYTM3ZTVmMmM0ZSJ9
